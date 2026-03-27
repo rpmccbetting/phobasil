@@ -1,4 +1,4 @@
-import herbsTexture from "@/assets/herbs-texture.jpg";
+import herbsTexture from "@/assets/new_contents/business_hours.jpg";
 import { MapPin, Phone, Clock } from "lucide-react";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 

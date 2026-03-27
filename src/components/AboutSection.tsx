@@ -1,4 +1,4 @@
-import phoBowl from "@/assets/pho-bowl.jpg";
+import phoBowl from "@/assets/new_contents/pho.png";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const AboutSection = () => {

@@ -1,4 +1,4 @@
-import heroSpread from "@/assets/hero-spread.jpg";
+import heroSpread from "@/assets/new_contents/hero.png";
 
 const HeroSection = () => {
   return (
